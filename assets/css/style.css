@@ -2,10 +2,16 @@
 html {overflow-x:hidden;}
 body {
     background: #fff;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #fff;
+    /* font-family: 'Roboto', sans-serif; */
+    font-weight: 900;
+    color: #eef4ff;
     text-align: center;
+    /* padding: 77px; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin-top: -74px;
 } 
 
 video { 
